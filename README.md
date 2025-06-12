@@ -18,6 +18,9 @@ http://127.0.0.1:8000/
 
 set up virtual enviroment : 
 
+python3 -m venv myvenv
+(myvenv) ~$ python -m pip install --upgrade pip
+
 C:\Users\Name\djangogirls> myvenv\Scripts\activate
 
 
